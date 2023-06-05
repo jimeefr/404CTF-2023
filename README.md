@@ -1,3 +1,3 @@
 ## Hardware
 
-[Des tetrominos qui choient](Hardware/Tetrominos)
+[Des tetrominos qui choient](Hardware/Tetrominos/README.md)
